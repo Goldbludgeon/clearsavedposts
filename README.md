@@ -8,9 +8,9 @@ Author: /u/goldbludgeon
 
 PRAWS Version: 7.1.0
 
-You must install python 3.9 and PRAW v7.1.0! If you do not know how a google search will help.
+You must install python 3.9 and PRAW v7.1.0! If you do not know how a google search will help.<br/><br/>
 
-Copy and save the file above.
+Copy and save the file above.<br/><br/>
 
 Make sure to fill in the username and password fields below. Make sure you keep the quotes around the fields.
 
@@ -23,7 +23,7 @@ Give it a random name. Doesn't matter.
 
 You need to fill in the "Redirect URI" field with something so go ahead and put 127.0.0.0 in there.
 
-Save it.
+Save it. <br/><br/>
 
 The client ID is the 14 character string under the name you gave your script.
 
@@ -33,8 +33,8 @@ The client secret is the longer string next to "secret".
 
 Replace those two fields below. Again keep the quotes around the fields.
 
-Save this file as "clearposts.py"
+Save it.<br/><br/>
 
-Double click the file to run it.
+Double click the file to run it.<br/><br/>
 
 You are good to go!
