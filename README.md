@@ -1,5 +1,5 @@
 # clearsavedposts
-Python Script to remove saved posts from reddit.
+*Python Script to remove saved posts from reddit.*
 
 
 Created on Dec. 24th, 2020
