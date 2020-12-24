@@ -10,7 +10,7 @@ PRAWS Version: 7.1.0
 
 You must install python 3.9 and PRAW v7.1.0! If you do not know how a google search will help.<br/><br/>
 
-Copy and save the file above.<br/><br/>
+Copy and save the "clearposts.py" file above.<br/><br/>
 
 Make sure to fill in the username and password fields below. Make sure you keep the quotes around the fields.
 
