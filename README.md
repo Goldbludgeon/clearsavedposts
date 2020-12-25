@@ -15,7 +15,7 @@ Copy and save the "clearposts.py" file above.<br/><br/>
 Make sure to fill in the username and password fields below. Make sure you keep the quotes around the fields.
 
 You'll need to make a "user script" in your reddit profile to run this.
-Go to https://old.reddit.com/prefs/apps/\
+Go to https://old.reddit.com/prefs/apps/
 
 Click on "Develop an app" at the bottom.
 
