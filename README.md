@@ -4,9 +4,11 @@
 
 Created on Dec. 24th, 2020
 
+Last Updated: August 31st, 2021
+
 Author: /u/goldbludgeon
 
-PRAWS Version: 7.1.0
+PRAWS Version: 7.4.0
 
 You must install python 3.9 and PRAW v7.1.0! If you do not know how a google search will help.<br/><br/>
 
@@ -22,6 +24,8 @@ Click on "Develop an app" at the bottom.
 Give it a random name. Doesn't matter.
 
 You need to fill in the "Redirect URI" field with something so go ahead and put 127.0.0.0 in there.
+
+Make sure you select "script" and not "web app."
 
 Save it. <br/><br/>
 
